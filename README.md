@@ -15,3 +15,7 @@ Motto: **Rest in the highest excellence.**  （止于至善）
 **Peripherals/Protocols:** GPIO, ADC, TIM (PWM), DMA, USART, SPI, I2C, CAN, Modbus      
 **Toolchain:** Keil MDK, STM32CubeMX, JLC EDA (嘉立创EDA), Altium Designer           
 Capable of both hardware and software co-development.              
+
+***
+
+##  带着我的痛苦、不甘与眼泪继续前进，我会比远征更早一步。     

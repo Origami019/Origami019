@@ -18,4 +18,4 @@ Capable of both hardware and software co-development.
 
 ***
 
-##  带着我的痛苦、不甘与眼泪继续前进，我会比远征更早一步。     
+##  君の夜をくれ。     
